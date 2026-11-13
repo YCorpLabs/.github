@@ -6,18 +6,22 @@
 
 <img src="https://raw.githubusercontent.com/YCorpLabs/.github/main/profile/email-icon.png" alt="Email app icon" width="56" height="56">
 
-**[Email](https://ycorplabs.com/email/)**
+**[Email](https://github.com/YCorpLabs/Email)**
 
 A fast, native email client for Mac and Linux. Keyboard-first, private by default, and your own agent can help out, but only with the access you give it.
+
+[Code](https://github.com/YCorpLabs/Email) · [Website](https://ycorplabs.com/email/)
 
 </td>
 <td width="50%" valign="top">
 
 <img src="https://raw.githubusercontent.com/YCorpLabs/.github/main/profile/scheduling-icon.png" alt="Scheduling icon" width="56" height="56">
 
-**[Scheduling](https://meet.ycorplabs.com/)**
+**[Scheduling](https://github.com/YCorpLabs/Scheduling)**
 
 Open-source team scheduling: booking links, team links that rotate between hosts, approvals and reminders. Use ours, or host your own on Cloudflare.
+
+[Code](https://github.com/YCorpLabs/Scheduling) · [Try it](https://meet.ycorplabs.com/)
 
 </td>
 </tr>
